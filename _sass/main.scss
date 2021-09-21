@@ -12,3 +12,20 @@ body {
     background-color: #006400;
 }
 
+// Adjust footer
+// Inspired by https://stackoverflow.com/a/42301/5832619
+
+html, body {
+    height: 100%;
+}
+
+.container {
+    min-height: 90%;
+    height: auto !important;
+    height: 100%;
+}
+
+footer {
+    padding-bottom: 0.5em;
+}
+
