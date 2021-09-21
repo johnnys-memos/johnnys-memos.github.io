@@ -40,3 +40,15 @@ And if you watch sports, which teams do you follow?
 If so, which are your favorites?
   * What are you favorite things to explore?
 
+## Example Intro from Me in 2019
+
+Hey everyone, I'm super excited to be returning to Amazon!
+Before joining this team,
+I was a software engineer for 2 years at a startup focusing on
+online education. I'm originally from Indianapolis, and I travel back
+every Memorial day weekend for the Indianapolis 500. Outside of work I
+like to golf, play basketball, line dance, play board games and arcade
+games, and go to concerts. I also like to explore Capitol Hill, and my
+favorite bar is Still Liquor. I'm looking forward to the work ahead and
+to meeting everyone on the team!
+
