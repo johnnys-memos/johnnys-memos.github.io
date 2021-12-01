@@ -59,7 +59,7 @@ ensuring that your direct manager doesn't make a rash decision.
 
 Furthermore, building rapport with managers further up your management chain
 has its benefits as well. If you aim to one day move to a different area
-of the company or organization and a manager within your chain overseas
+of the company or organization and a manager within your chain oversees
 that area, then having rapport with that manager could make your aims
 more feasible or achievable. Also, if you aim to one day pitch an idea
 for a new product or team and a manager in your chain needs to fund the
@@ -119,7 +119,7 @@ for a new team; otherwise, you can impress your direct manager but you
 won't get proper recognition from your skip manager and managers further
 up your chain.
 
-Performance ratings can help with discrepancies within your management
+Performance ratings can help mitigate discrepancies within your management
 chain because this rating indicates how well you are serving your direct
 manager even if your direct manager isn't serving their manager
 appropriately.
@@ -162,5 +162,9 @@ and wait patiently for opportunities to deliver at a larger scope than
 is typically expected of your current role. Good companies and
 organizations will be setup so that your direct manager is the most
 important manager to serve in your management chain.
+
+If you don't want to advance your career one rung at a time, then climbing
+the traditional corporate ladder is probably not the best means for
+achieving professional success at the speed you desire.
 
 
