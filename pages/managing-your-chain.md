@@ -31,16 +31,15 @@ to adjust to these new job expectations.
 Spending more time on the menial tasks would mean that I would have to
 spend less time on the high-level goals; and thus, I would get less
 recognition from the more senior leaders (senior managers and directors).
-This document is intended to discuss how to satisfy and impress your direct
-manager while also getting recognition from managers further up your
-management chain.
+This document is intended to discuss how to balance serving different
+managers in your management chain.
 
 [//]: <> Allen owned a goal that he could have completed entirely on his own
 [//]: <> and it was being tracked at the VP level
 
 ## Defintions
 
-* __Direct manager__: The manager you that report directly into
+* __Direct manager__: The manager that you report directly into
 * __Skip manager__: Your direct manager's direct manager
 * __Management chain__: Every manager that is responsible for you. This
 includes your direct manager, your skip manager, and every manager up to
@@ -75,7 +74,7 @@ direct manager?
 
 At Amazon your direct manager initiates the promotion process, and your
 manager should also handle all of the heavy lifting of the promotion
-process. At Amazon your manager also initiates and managers the dismissal
+process. At Amazon your manager also initiates and handles the dismissal
 process - in other words, they can fire you as long as they have the
 approval of your skip manager. At Amazon they can single-handedly prevent
 you from moving to a different team within the company, and they have
@@ -89,8 +88,13 @@ in fact matters the most. If you're interested in remaining employed,
 getting promoted, or getting paid more, then you must satisfy or impress
 your direct manager.
 
-- At Amazon your direct manager gives you a rating that gets sent up the
-management chain
+Another important responsibility that your direct manager may have is
+rating your performance. This rating is typically then sent a few
+levels up the management chain. At Amazon your direct manager gives
+you a rating, but it's unclear how high up the chain that rating goes
+or how much of an impact it has on your relationship with your non-direct
+managers. In an ideal world this rating would carry a lot of weight with
+all of the managers in your management chain.
 
 
 ## Handling conflicting priorities within your chain
@@ -112,8 +116,13 @@ different priorities than your skip manager and if that discrepancy
 is reasonably small, then don't fret this is normal. However, if that
 discrepancy is unreasonably large, then your best option is to look
 for a new team; otherwise, you can impress your direct manager but you
-won't get recognition from your skip manager and managers further up
-your chain.
+won't get proper recognition from your skip manager and managers further
+up your chain.
+
+Performance ratings can help with discrepancies within your management
+chain because this rating indicates how well you are serving your direct
+manager even if your direct manager isn't serving their manager
+appropriately.
 
 [//]: <> In hindsight, I should have limited the Access Engineering oncall
 [//]: <> to resolving something like 10 tickets per oncall shift. This is
@@ -123,16 +132,35 @@ your chain.
 
 ## Moving up the ladder
 
-- Focus on one rung at a time
+In the corporate world you're almost always going to have to focus on
+moving up the ladder one rung at a time. This is because your direct
+manager typically has so much power over your career trajectory.
+Attempting to move up multiple rungs may mean that you have to disregard
+duties that your direct manager expects from you, which means that you
+may risk losing your job or you may risk receiving a poor performance
+rating.
 
-- Your manager should breakdown work into smaller chunks and distribute
-those chunks within the team. Thus, your overall contribution to a goal
-should be smaller than if you had completed the entire goal yourself
+If your managers are good, then they will break down work into smaller
+components and will distribute those components to the people that report
+into them. More specifically, your direct manager will be on the hook
+for completing certain goals, and your direct manager should break those
+goals down into smaller components and assign a smaller component to you.
+Thus, for the majority of the time you won't be able to deliver at the
+same scope as your direct manager. However, there should still be
+opportunities that come up on occasion for you to step up and deliver
+at a larger scope than you typically do. For example, if your direct
+manager abruptly leaves the team or takes an extended leave, then you may
+have an opportunity to fill in for them and deliver at their level of
+scope.
 
-- Wait for opportunities to step up and take on more scope
 
 ## Conclusion
 
-- Work for your direct manager; otherwise, you're increasing the likelihood
-that you get fired
+Focus on serving your direct manager first, work for a direct manager that
+fully and completely understands the priorities of their direct manager,
+and wait patiently for opportunities to deliver at a larger scope than
+is typically expected of your current role. Good companies and
+organizations will be setup so that your direct manager is the most
+important manager to serve in your management chain.
+
 
